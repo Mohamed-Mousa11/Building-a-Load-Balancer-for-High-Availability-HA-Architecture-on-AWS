@@ -1,4 +1,4 @@
-# Building-a-Load-Balancer-for-High-Availability-HA-Architecture-on-AWS
+# Building a Load Balancer for High Availability Architecture on AWS
 ![ec2_simple_high_availability_architecture_238f1c256f](https://github.com/user-attachments/assets/195c6e42-d4c9-4f96-b485-c46bff7b627d)
 
  
